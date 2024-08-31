@@ -7,6 +7,14 @@ body {
     height: 500px;
 }
 
-container {
-    display: flex;
+.content, .navigation {
+    padding: 0;
+}
+
+.navigation_container {
+    padding: 0.7vw 2vw;
+}
+
+main {
+    padding: 2vw;
 }
